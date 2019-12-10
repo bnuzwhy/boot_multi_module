@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/boot_controller/boot_controller.iml" filepath="$PROJECT_DIR$/boot_controller/boot_controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot_mapper/boot_mapper.iml" filepath="$PROJECT_DIR$/boot_mapper/boot_mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot_model/boot_model.iml" filepath="$PROJECT_DIR$/boot_model/boot_model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot_multi_module.iml" filepath="$PROJECT_DIR$/boot_multi_module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot_service/boot_service.iml" filepath="$PROJECT_DIR$/boot_service/boot_service.iml" />
+    </modules>
+  </component>
+</project>
